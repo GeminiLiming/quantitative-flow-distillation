@@ -1,0 +1,2 @@
+seed,mu_seed,sigma0,T,beta,sigma_inf,n_blocks,inner_depth,inner_width,d_model,n_heads,ff_mult,dropout,relmse,train_sec,mu_box,d,K,steps,batch_size,lr,eval_n,eval_batch,teacher_steps,score_chunk
+9.0,0.0,0.001,1.0,5.0,1.0,1.0,2.0,128.0,128.0,4.0,4.0,0.0,0.06860536140401692,3188.9979786872864,5.0,64.0,20.0,20000.0,1024.0,0.0002,50000.0,1024.0,100.0,0.0

@@ -1,0 +1,2 @@
+exp,seed,sigma0,depth,width,t,t_frac,relmse,train_sec,beta,mu_box,d,K,steps,batch_size,lr,eval_n,eval_batch,score_chunk
+0.0,6.0,0.1,4.0,1024.0,0.9,0.9,0.0008847609051484783,74.32765340805054,5.0,5.0,64.0,20.0,20000.0,1024.0,0.0002,50000.0,1024.0,0.0
